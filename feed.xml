@@ -42,7 +42,7 @@
 			no
 		</itunes:explicit>
 		<itunes:image href="http://www.silver.ru/upload/iblock/e97/e9740bfe501e9339aebd62b5e02bc1c6.jpg" />
-		<itunes:category text="Science & Medicine">
+		<itunes:category text="Science &amp; Medicine">
 			<itunes:category text="Social Sciences"/>
 		</itunes:category>		
 		<item>
