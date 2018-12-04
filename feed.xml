@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
+		<atom:link href="https://raw.githubusercontent.com/ShockwaveNN/adults-about-adults-rss/master/feed.xml" rel="self" type="application/rss+xml" />
 		<title>
 			Взрослым о взрослых
 		</title>
@@ -27,30 +28,28 @@
 			http://blogs.law.harvard.edu/tech/rss
 		</docs>
 		<webMaster>
-			shockwavenn@gmail.com
+			shockwavenn@gmail.com (Pavel Lobashov)
 		</webMaster>
-		<author>
-			shockwavenn@gmail.com
-		</author>
-		<subtitle>
+		<itunes:author>
+			Михал Лабковский
+		</itunes:author>
+		<itunes:subtitle>
 			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
-		</subtitle>
-		<summary>
+		</itunes:subtitle>
+		<itunes:summary>
 			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
-		</summary>
-		<owner>
-			<name>
-				Rob W
-			</name>
-			<email>
-				rob@podcast411.com
-			</email>
-		</owner>
-		<explicit>
-			No
-		</explicit>
+		</itunes:summary>
+		<itunes:owner>
+           <itunes:name>Серебрянный дождь</itunes:name>
+           <itunes:email>silver@silver.ru</itunes:email>
+    	</itunes:owner>
+		<itunes:explicit>
+			clean
+		</itunes:explicit>
 		<itunes:image href="http://www.silver.ru/upload/iblock/e97/e9740bfe501e9339aebd62b5e02bc1c6.jpg" />
-		<category text="Psychology" />
+		<itunes:category text="Science &amp; Medicine">
+			<itunes:category text="Social Sciences"/>
+		</itunes:category>		
 		<item>
 			<title>
 				Как реагировать на комментарии о своей внешности?
@@ -64,25 +63,25 @@
 			<description>
 				Как реагировать на комментарии о своей внешности?
 			</description>
-			<enclosure url="http://www.silver.ru/upload/medialibrary/2e6/2e694d74ca426e0f1439a802c35940d5.mp3" type="audio/mpeg" />
+			<enclosure url="http://www.silver.ru/upload/medialibrary/2e6/2e694d74ca426e0f1439a802c35940d5.mp3" length="41164280" type="audio/mpeg" />
 			<category>
 				Podcasts
 			</category>
 			<pubDate>
-				Sat, 20 Nov 2018 11:30:00 +0400
+				Tue, 20 Nov 2018 11:30:00 +0400
 			</pubDate>
-			<author>
-				Михаил Лабковский
-			</author>
-			<explicit>
-				No
-			</explicit>
-			<summary>
+ 			<itunes:summary>
 				Как реагировать на комментарии о своей внешности?
-			</summary>
-			<duration>
+			</itunes:summary>
+			<itunes:duration>
 				00:42:53
-			</duration>
+			</itunes:duration>
+			<itunes:author>
+				Михал Лабковский
+			</itunes:author>
+			<itunes:explicit>
+				clean
+			</itunes:explicit>
 		</item>
 		<item>
 			<title>
@@ -97,25 +96,25 @@
 			<description>
 				Раннее развитие: стоит ли нагружать детей интенсивными занятиями?
 			</description>
-			<enclosure url="http://www.silver.ru/upload/medialibrary/17d/17d0e7a5d996969f77438a2b77e6cb11.mp3" type="audio/mpeg" />
+			<enclosure url="http://www.silver.ru/upload/medialibrary/17d/17d0e7a5d996969f77438a2b77e6cb11.mp3" length="41687983" type="audio/mpeg" />
 			<category>
 				Podcasts
 			</category>
 			<pubDate>
-				Sat, 13 Nov 2018 11:30:00 +0400
+				Tue, 13 Nov 2018 11:30:00 +0400
 			</pubDate>
-			<author>
-				Михаил Лабковский
-			</author>
-			<explicit>
-				No
-			</explicit>
-			<summary>
+			<itunes:summary>
 				Раннее развитие: стоит ли нагружать детей интенсивными занятиями?
-			</summary>
-			<duration>
+			</itunes:summary>
+			<itunes:duration>
 				00:43:26
-			</duration>
+			</itunes:duration>
+			<itunes:author>
+				Михал Лабковский
+			</itunes:author>
+			<itunes:explicit>
+				clean
+			</itunes:explicit>
 		</item>
 	</channel>
 </rss>
