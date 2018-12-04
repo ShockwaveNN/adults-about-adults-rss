@@ -42,7 +42,9 @@
 			no
 		</itunes:explicit>
 		<itunes:image href="http://www.silver.ru/upload/iblock/e97/e9740bfe501e9339aebd62b5e02bc1c6.jpg" />
-		<itunes:category text="Psychology" />
+		<itunes:category text="Psychology">
+     		<itunes:category text="Podcasting"/>
+		</itunes:category>		
 		<item>
 			<title>
 				Как реагировать на комментарии о своей внешности?
