@@ -84,5 +84,38 @@
 				00:42:53
 			</duration>
 		</item>
+        <item>
+			<title>
+				Раннее развитие: стоит ли нагружать детей интенсивными занятиями?
+			</title>
+			<link>
+				http://www.silver.ru/programms/vzroslim-o-vzroslix/Vipuskyprogrammy/materials-Ranneerazvitiestoitlinagruzhatdeteyintensivnymizanyatiyami/
+			</link>
+			<guid>
+				http://www.silver.ru/upload/medialibrary/17d/17d0e7a5d996969f77438a2b77e6cb11.mp3
+			</guid>
+			<description>
+				Раннее развитие: стоит ли нагружать детей интенсивными занятиями?
+			</description>
+			<enclosure url="http://www.silver.ru/upload/medialibrary/17d/17d0e7a5d996969f77438a2b77e6cb11.mp3" type="audio/mpeg" />
+			<category>
+				Podcasts
+			</category>
+			<pubDate>
+				Sat, 13 Nov 2018 11:30:00 +0400
+			</pubDate>
+			<author>
+				Михаил Лабковский
+			</author>
+			<explicit>
+				No
+			</explicit>
+			<summary>
+				Раннее развитие: стоит ли нагружать детей интенсивными занятиями?
+			</summary>
+			<duration>
+				00:43:26
+			</duration>
+		</item>
 	</channel>
 </rss>
