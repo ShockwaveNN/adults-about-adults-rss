@@ -32,25 +32,17 @@
 		<itunes:author>
 			Михал Лабковский
 		</itunes:author>
-		<subtitle>
+		<itunes:subtitle>
 			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
-		</subtitle>
-		<summary>
+		</itunes:subtitle>
+		<itunes:summary>
 			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
-		</summary>
-		<owner>
-			<name>
-				Rob W
-			</name>
-			<email>
-				rob@podcast411.com
-			</email>
-		</owner>
-		<explicit>
+		</itunes:summary>
+		<itunes:explicit>
 			No
-		</explicit>
+		</itunes:explicit>
 		<itunes:image href="http://www.silver.ru/upload/iblock/e97/e9740bfe501e9339aebd62b5e02bc1c6.jpg" />
-		<category text="Psychology" />
+		<itunes:category text="Psychology" />
 		<item>
 			<title>
 				Как реагировать на комментарии о своей внешности?
