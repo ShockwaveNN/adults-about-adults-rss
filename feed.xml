@@ -38,6 +38,10 @@
 		<itunes:summary>
 			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
 		</itunes:summary>
+		<itunes:owner>
+           <itunes:name>Серебрянный дождь</itunes:name>
+           <itunes:email>silver@silver.ru</itunes:email>
+    	</itunes:owner>
 		<itunes:explicit>
 			No
 		</itunes:explicit>
