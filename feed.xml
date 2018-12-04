@@ -71,18 +71,18 @@
 			<pubDate>
 				Sat, 20 Nov 2018 11:30:00 +0400
 			</pubDate>
-			<author>
-				Михаил Лабковский
-			</author>
-			<explicit>
-				No
-			</explicit>
-			<summary>
+ 			<itunes:summary>
 				Как реагировать на комментарии о своей внешности?
-			</summary>
-			<duration>
+			</itunes:summary>
+			<itunes:duration>
 				00:42:53
-			</duration>
+			</itunes:duration>
+			<itunes:author>
+				Михал Лабковский
+			</itunes:author>
+			<itunes:explicit>
+				No
+			</itunes:explicit>
 		</item>
 		<item>
 			<title>
@@ -104,18 +104,18 @@
 			<pubDate>
 				Sat, 13 Nov 2018 11:30:00 +0400
 			</pubDate>
-			<author>
-				Михаил Лабковский
-			</author>
-			<explicit>
-				No
-			</explicit>
-			<summary>
+			<itunes:summary>
 				Раннее развитие: стоит ли нагружать детей интенсивными занятиями?
-			</summary>
-			<duration>
+			</itunes:summary>
+			<itunes:duration>
 				00:43:26
-			</duration>
+			</itunes:duration>
+			<itunes:author>
+				Михал Лабковский
+			</itunes:author>
+			<itunes:explicit>
+				No
+			</itunes:explicit>
 		</item>
 	</channel>
 </rss>
