@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>
+			Взрослым о взрослых
+		</title>
+		<description>
+			Если вы с трудом просыпаетесь, чтобы пойти на нелюбимую работу, в середине дня холодеете от страха перед публичным докладом, в обед накричали на жену по телефону, а вечером поругались с сыном из-за его школьных оценок – нам есть что вам предложить.
+			На Серебряном Дожде – премьера авторской программы психолога Михаила Лабковского «Взрослым о взрослых». Всё, что касается отношений, взаимоотношений и самоотношения теперь можно спросить в нашем эфире!
+		</description>
+		<link>
+			http://www.silver.ru/programms/vzroslim-o-vzroslix/Vipuskyprogrammy/
+		</link>
+		<language>
+			ru-ru
+		</language>
+		<copyright>
+			Copyright 2018
+		</copyright>
+		<lastBuildDate>
+			Sat, 25 Mar 2006 11:30:00 -0500
+		</lastBuildDate>
+		<pubDate>
+			Sat, 25 Mar 2006 11:30:00 -0500
+		</pubDate>
+		<docs>
+			http://blogs.law.harvard.edu/tech/rss
+		</docs>
+		<webMaster>
+			shockwavenn@gmail.com
+		</webMaster>
+		<author>
+			shockwavenn@gmail.com
+		</author>
+		<subtitle>
+			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
+		</subtitle>
+		<summary>
+			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
+		</summary>
+		<owner>
+			<name>
+				Rob W
+			</name>
+			<email>
+				rob@podcast411.com
+			</email>
+		</owner>
+		<explicit>
+			No
+		</explicit>
+		<image href="http://www.silver.ru/upload/iblock/e97/e9740bfe501e9339aebd62b5e02bc1c6.jpg" />
+		<category text="Psychology" />
+		<item>
+			<title>
+				Как реагировать на комментарии о своей внешности?
+			</title>
+			<link>
+				http://www.silver.ru/programms/vzroslim-o-vzroslix/Vipuskyprogrammy/materials-Kakreagirovatnakommentariiosvoeyvneshnosti/
+			</link>
+			<guid>
+				http://www.silver.ru/upload/medialibrary/2e6/2e694d74ca426e0f1439a802c35940d5.mp3
+			</guid>
+			<description>
+				Как реагировать на комментарии о своей внешности?
+			</description>
+			<enclosure url="http://www.silver.ru/upload/medialibrary/2e6/2e694d74ca426e0f1439a802c35940d5.mp3" type="audio/mpeg" />
+			<category>
+				Podcasts
+			</category>
+			<pubDate>
+				Sat, 20 Nov 2018 11:30:00 +0400
+			</pubDate>
+			<author>
+				Михаил Лабковский
+			</author>
+			<explicit>
+				No
+			</explicit>
+			<summary>
+				Как реагировать на комментарии о своей внешности?
+			</summary>
+			<duration>
+				00:42:53
+			</duration>
+		</item>
+	</channel>
+</rss>
