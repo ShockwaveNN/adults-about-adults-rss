@@ -39,7 +39,7 @@
 			Передача о всём, что касается отношений, взаимоотношений и самоотношения.
 		</itunes:summary>
 		<itunes:explicit>
-			no
+			No
 		</itunes:explicit>
 		<itunes:image href="http://www.silver.ru/upload/iblock/e97/e9740bfe501e9339aebd62b5e02bc1c6.jpg" />
 		<itunes:category text="Science &amp; Medicine">
@@ -75,7 +75,7 @@
 				Михал Лабковский
 			</itunes:author>
 			<itunes:explicit>
-				no
+				No
 			</itunes:explicit>
 		</item>
 		<item>
@@ -108,7 +108,7 @@
 				Михал Лабковский
 			</itunes:author>
 			<itunes:explicit>
-				no
+				No
 			</itunes:explicit>
 		</item>
 	</channel>
